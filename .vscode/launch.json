@@ -5,7 +5,7 @@
       "request": "launch",
       "name": "Debug",
       "type": "node",
-      "program": "${workspaceFolder}/app.ts",
+      "program": "${workspaceFolder}/app/main.ts",
       "cwd": "${workspaceFolder}",
       "runtimeExecutable": "/opt/homebrew/bin/deno",
       "runtimeArgs": [
